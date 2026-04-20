@@ -26,6 +26,4 @@ python GeoRyuk.py
 
 Then enter the search query and number of results when prompted.
 
-## Author
 
-Saksham122004
